@@ -11,13 +11,13 @@ Define who will be working on this project and what will they be doing.
 
 | Name | Responsibility |
 | --- | --- |
-|  |  |
-  
+| Alexander | Koding |
+| Kim | Koding |  
 ---
 ### Roadmap  
 | Project name | Due date | Ticket | Status | Person assigned |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| BvisstKost | 17.08 |  | Påbegynt  | Begge |
   
 ---
 ### Tickets
